@@ -1,7 +1,0 @@
-﻿species,file,taxonomy,shallow_db,broad_db,mode,uniprot,mcl_test
-Tetrahymena_thermophila,s3://organism-selection-engines/sequence-data/aa-seqs/final-proteins/Tetrahymena_thermophila.fasta,Alveolata,alveolata_odb10,eukaryota_odb10,proteins,TRUE,FALSE
-Amoebophrya_sp_A120,s3://organism-selection-engines/sequence-data/aa-seqs/final-proteins/Amoebophrya_sp_A120.fasta,Alveolata,alveolata_odb10,eukaryota_odb10,proteins,TRUE,TRUE
-Plasmodiophora_brassicae,s3://organism-selection-engines/sequence-data/aa-seqs/final-proteins/Plasmodiophora_brassicae.fasta,Rhizaria,alveolata_odb10,eukaryota_odb10,proteins,TRUE,TRUE
-Aureococcus_anophagefferens,s3://organism-selection-engines/sequence-data/aa-seqs/final-proteins/Aureococcus_anophagefferens.fasta,Stramenopiles,stramenopiles_odb10,eukaryota_odb10,proteins,TRUE,FALSE
-Cafeteria_burkhardae,s3://organism-selection-engines/sequence-data/aa-seqs/final-proteins/Cafeteria_burkhardae.fasta,Stramenopiles,stramenopiles_odb10,eukaryota_odb10,proteins,TRUE,TRUE
-Telonema_subtile,s3://organism-selection-engines/sequence-data/aa-seqs/final-proteins/EP00656_Telonema_subtile.fasta,Telonemia,alveolata_odb10,eukaryota_odb10,proteins,FALSE,TRUE
