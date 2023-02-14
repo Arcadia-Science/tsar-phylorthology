@@ -1,5 +1,5 @@
 # tsar_phylorthology
-This repository contains scripts and other information that pertains to publication of the `PhylOrthology` workflow and its application to TSAR Eukaryotes.  
+This repository contains scripts and other information that pertains to publication of the [`PhylOrthology`](https://github.com/Arcadia-Science/phylorthology) workflow and its application to TSAR Eukaryotes.  
 
 Three datasets and their corresponding nextflow samplesheets and parameterfiles are included herein.  
 **1)** `tsar-final`: This includes the full, filtered proteomes of 35 species of TSAR eukaryotes.  
