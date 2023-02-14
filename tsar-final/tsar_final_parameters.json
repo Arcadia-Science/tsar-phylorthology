@@ -1,5 +1,5 @@
 {
-  "input": "https://github.com/Arcadia-Science/tsar-phylorthology/main/tsar-final/tsar_final_samplesheet.csv",
+  "input": "https://github.com/Arcadia-Science/tsar-phylorthology/blob/main/tsar-final/tsar_final_samplesheet.csv",
   "outdir": "results-final-tsar",
   "mcl_inflation": "1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0",
   "min_num_spp_per_og": 4,
