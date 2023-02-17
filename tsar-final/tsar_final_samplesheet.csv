@@ -34,3 +34,4 @@ Haloplacidia_sp_CaronLabIsolate,s3://organism-selection-engines/sequence-data/aa
 Saprolegnia_diclina,s3://organism-selection-engines/sequence-data/aa-seqs/final-proteins/Saprolegnia_diclina.fasta,Stramenopiles,stramenopiles_odb10,eukaryota_odb10,proteins,true,true
 Hondaea_fermentalgiana,s3://organism-selection-engines/sequence-data/aa-seqs/final-proteins/Hondaea_fermentalgiana.fasta,Stramenopiles,stramenopiles_odb10,eukaryota_odb10,proteins,true,true
 Telonema_subtile,s3://organism-selection-engines/sequence-data/aa-seqs/final-proteins/Telonema_subtile.fasta,Telonemia,alveolata_odb10,eukaryota_odb10,proteins,false,true
+Telonema_sp_P-2,s3://organism-selection-engines/sequence-data/aa-seqs/final-proteins/Telonema_sp_P-2.fasta,Telonemia,alveolata_odb10,eukaryota_odb10,proteins,false,false	
