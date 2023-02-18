@@ -6,6 +6,6 @@
   "min_num_grp_per_og": 2,
   "max_copy_num_spp_tree": 3,
   "max_copy_num_gene_trees": 5,
-  "download_annots": "all",
+  "download_annots": "minimal",
   "tree_model": "LG+F+G4"
 }
