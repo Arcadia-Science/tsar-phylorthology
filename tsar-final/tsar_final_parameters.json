@@ -1,12 +1,14 @@
 {
   "input": "https://github.com/Arcadia-Science/tsar-phylorthology/raw/main/tsar-final/tsar_final_samplesheet.csv",
   "outdir": "results-final-tsar",
-  "mcl_inflation": "1.25,2.0,3.75,4.5,5.25,6.0,6.75,7.5,8.25,9.0",
+  "mcl_inflation": "1.25,2.0,2.75,3.5,4.25,5.0,5.75,6.5,7.25,8.0,8.75,9.5",
   "min_num_spp_per_og": 4,
   "min_num_grp_per_og": 2,
   "max_copy_num_spp_tree": 5,
   "max_copy_num_gene_trees": 10,
   "download_annots": "all",
   "tree_model": "LG+F+G4",
-  "tree_model_pmsf": "LG+C40+F+G4"
+  "tree_model_pmsf": "LG+C40+F+G4",
+  "max_cpus": 192,
+  "max_memory": "740GB"
 }
