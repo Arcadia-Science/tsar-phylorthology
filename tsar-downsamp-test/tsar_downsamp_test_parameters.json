@@ -4,6 +4,7 @@
   "mcl_inflation": "1.25,2.0,2.75,3.50,4.25,5.0,5.75,6.5,7.25,8.0,8.75,9.5",
   "min_num_spp_per_og": 4,
   "min_num_grp_per_og": 2,
+  "min_prop_spp_for_spptree": 0.10,
   "max_copy_num_spp_tree": 3,
   "max_copy_num_gene_trees": 5,
   "download_annots": "all",
